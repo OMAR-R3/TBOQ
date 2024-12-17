@@ -1,0 +1,85 @@
+.cont-menu nav .form:hover {
+    border-left: 5px solid #c7c7c7;
+    background: #4e88a5;
+    color: #ffffff;
+}
+
+.cont-menu nav .form {
+    display: block;
+    text-decoration: none;
+    padding: 18px;
+    color: #898989;
+    border-left: 5px solid transparent;
+    transition: all 1s ease;
+    width: 100%;
+text-align: left;
+background: #ffe9d0;
+border-style: none;
+font-size: 16px;
+}
+
+.contenelo .textos .jug:hover {
+background: #e78d58;
+color: rgb(255, 255, 255);
+border: 1px solid #f9f782;
+width: 160px;
+border-radius: 50px;
+transform: scale(1.1);
+}
+.contenelo .textos .jug {
+display: inline-block;
+padding: 10px 0;
+width: 150px;
+text-decoration: none;
+border: 1px solid #e78d58;
+text-align: center;
+border-radius: 3px;
+background: #f9f782;
+color: rgb(0, 0, 0);
+transition: all 0.3s ease;
+margin: 0 30%;
+font-size: 20px;
+z-index: 7;
+}
+.contenelo2 .textos2 .jug:hover {
+background: #e78d58;
+color: rgb(255, 255, 255);
+border: 1px solid #f9f782;
+width: 160px;
+border-radius: 50px;
+transform: scale(1.1);
+}
+.contenelo2 .textos2 .jug {
+display: inline-block;
+padding: 10px 0;
+width: 150px;
+text-decoration: none;
+border: 1px solid #e78d58;
+text-align: center;
+border-radius: 3px;
+background: #f9f782;
+color: rgb(0, 0, 0);
+transition: all 0.3s ease;
+margin: 0 30%;
+font-size: 20px;
+z-index: 7;
+}
+
+.cajifooterini .men2{
+        margin-top: 10px;
+        color: #ffffff;
+        font-weight: 600;
+        text-decoration: none;
+        font-size: 15px;
+        /*text-align: center;*/
+        transition: all 0.3s;
+        background: #414141;
+        border-style: none;
+    }
+    
+    .cajifooterini .men2:hover{
+        opacity: 0.5;
+        transform: scale(1.1);
+        color: #fff;
+    }
+
